@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\TARUN\PottChatt\SmartWomenNew1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\TARUN\PottChatt\SmartWomenNew1\app\build\intermediates\pre-dexed\debug\classes-0c389f588f18472c9b0d937a349e8a57295678a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\rvtech\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\TARUN\PottChatt\SmartWomenNew1\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-d202355a2764a4734fcb4d6abcd6b30e236deb51.jar" />
+    </item>
+    <item
+        jar="D:\TARUN\PottChatt\SmartWomenNew1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\TARUN\PottChatt\SmartWomenNew1\app\build\intermediates\pre-dexed\debug\classes-e6dbfb7a80ea51458069fcd7aeb4c15277ac8229.jar" />
+    </item>
+    <item
+        jar="C:\Users\rvtech\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\TARUN\PottChatt\SmartWomenNew1\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-5b335e2961e75ee540079fb561ada9e87a521ab8.jar" />
+    </item>
+    <item
+        jar="D:\TARUN\PottChatt\SmartWomenNew1\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="15ad6a46fb8e2ed86556e0b330d738b589dc62c7">
+        <dex dex="D:\TARUN\PottChatt\SmartWomenNew1\app\build\intermediates\pre-dexed\debug\classes-99d57dd79daa8d86d81ebef5c7ce98e482ee7769.jar" />
+    </item>
+    <item
+        jar="D:\TARUN\PottChatt\SmartWomenNew1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\TARUN\PottChatt\SmartWomenNew1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-1fc12b57c9f562702f53fb86d0ce12249bfe8626.jar" />
+    </item>
+
+</items>
